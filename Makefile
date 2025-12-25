@@ -23,7 +23,7 @@ OBJS = $(addsuffix .o, $(FILES))
 all: $(NAME)
 
 $(NAME): $(OBJS)
-	$(CC) MLX/build/libmlx42.a -framework Cocoa -framework OpenGL -framework IOKit -Iinclude -lglfw -L"/Users/isel-azz/.brew/opt/glfw/lib/" $^ -o $@
+	$(CC) $(OBJS) MLX/build/libmlx42.a -Iinclude -lXext -lX11 -lglfw -ldl -lm -pthread -o $(NAME)
 
 %.o: %.c $(HEADER)
 	$(CC) $(CFLAGS) -c $< -o $@

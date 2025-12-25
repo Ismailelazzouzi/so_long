@@ -34,9 +34,6 @@ int	zeroc(t_game_needs *game)
 
 void	done(t_game_needs *game)
 {
-	int	i;
-
-	i = game->height;
 	freemap(game);
 	mlx_terminate(game->win);
 	exit(0);

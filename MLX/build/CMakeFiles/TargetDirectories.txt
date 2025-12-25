@@ -1,7 +1,7 @@
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/mlx42.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/edit_cache.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/rebuild_cache.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/list_install_components.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/install.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/install/local.dir
-/Users/isel-azz/Desktop/so_long/MLX42/build/CMakeFiles/install/strip.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/mlx42.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/edit_cache.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/rebuild_cache.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/list_install_components.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/install.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/install/local.dir
+/home/samael/Desktop/so_long/MLX/build/CMakeFiles/install/strip.dir

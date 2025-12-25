@@ -15,10 +15,8 @@
 void	my_keyhook(mlx_key_data_t keydata, void *param)
 {
 	t_game_needs	*game;
-	int				i;
 
 	game = (t_game_needs *)param;
-	i = 0;
 	if (keydata.key == MLX_KEY_W && keydata.action == MLX_PRESS)
 		moveup(game);
 	else if (keydata.key == MLX_KEY_S && keydata.action == MLX_PRESS)
